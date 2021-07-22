@@ -1,6 +1,7 @@
 # TICC Paper Code
 Files 
 ======================
+参考博客：https://blog.csdn.net/shenxiaolu1984/article/details/78134471
 The TICC package has the following important files:
 ```
 TICC.py
